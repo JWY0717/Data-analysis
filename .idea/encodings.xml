@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/data/고용형태별_임금_및_근로시간.csv" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/data/성별_임금_및_근로시간.csv" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/data/연령별_임금_및_근로시간.csv" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/data/직종별_임금_및_근로시간.csv" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/data/학력별_임금_및_근로시간.csv" charset="x-windows-949" />
+  </component>
+</project>
